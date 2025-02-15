@@ -15,7 +15,9 @@ Sou apaixonado por java e desenvolvimento web. Atualmente estou cursando técnic
 ![](https://skillicons.dev/icons?i=windows)
 ![](https://skillicons.dev/icons?i=vscode)
 
+
 ---
+
 
 [📌 Gerenciador de tarefas](https://github.com/hgrgustavo/gerenciador-de-tarefas) é um website onde você pode criar, armazenar, gerenciar ou excluir tarefas.
 >
@@ -31,4 +33,5 @@ Sou apaixonado por java e desenvolvimento web. Atualmente estou cursando técnic
 
 ### Github stats
 > ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hgrgustavo&theme=javascript-dark&hide_border=true&border_radius=6&locale=pt_BR&short_numbers=true&card_width=400&card_height=200)
+
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgrgustavo&layout=compact&theme=codeSTACKr)
