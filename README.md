@@ -1,37 +1,46 @@
-<h1 align="center">Gustavo Henrique 👨‍🍳</h1>
+<h1 align="center">Gustavo Henrique 👨‍🔧</h1>
+<p align="center"><strong>Fullstack • Architect of scalable, human-centered solutions</strong></p>
 
-Sou apaixonado por java e desenvolvimento web. Atualmente estou cursando técnico em desenvolvimento de sistemas no senai itumbiara. Na minha rotina, também faço cursos extras de tecnologia, resolvo problemas no Leetcode e procuro emprego em  < T >.
+> <p align="justify">
+>  <i>"Passionate about technology since childhood, when my father gave me my first computer. Currently pursuing a Computer Science degree at UNA (Distance Learning), I also dedicate time to extra tech courses, solving algorithmic and system design challenges, contributing to open source projects, and actively exploring opportunities in the tech industry."
+   </i>
+</p>
 
-### Projetos
-[📖 Agenda ](https://github.com/hgrgustavo/agenda) é um website onde você pode armazenar e requisitar informações categorizadas. 
->
->
-> Este projeto utiliza:
-> ![](https://skillicons.dev/icons?i=html)
-![](https://skillicons.dev/icons?i=css)
-![](https://skillicons.dev/icons?i=js)
-![](https://skillicons.dev/icons?i=php)
-![](https://skillicons.dev/icons?i=mysql)
-![](https://skillicons.dev/icons?i=windows)
-![](https://skillicons.dev/icons?i=vscode)
+## 📰 Projects
+<table align="center" width="100%">
+  <div align="center"><strong>🛒 Electronics E-Commerce</strong></div>
+  <br>
+  <tr align="center">
+    <th>About</th>
+    <th>Repository</th>
+    <th>Website</th>
+  </tr>
+  <tr>
+    <td align="justify"><sub>An ecommerce inspired by the repair and electronics store in my city.</sub></td>
+    <td align="center"><a href="https://github.com/hgrgustavo/"><sub>GitHub</sub></a></td>
+    <td align="center"><a href=""><sub>Access it</sub></a></td>
+  </tr>
+</table>
+<br><br>
+<table width="100%" align="center">
+  <div align="center"><strong>🧑‍🏫 Controle Docentes Extraquadro</strong></div>
+  <br>
+  <tr align="center">
+    <th>About</th>
+    <th>Repository</th>
+    <th>Website</th>
+  </tr>
+  <tr>
+    <td align="justify"><sub>This project aims to help the SENAI Itumbiara institution to manage extra-teachers from their entry to the contract bureaucracy.</sub></td>
+    <td align="center"><a href="https://github.com/hgrgustavo/docentes-extraquadro"><sub>GitHub</sub></a></td>
+    <td align="center"><a href=""><sub>Access it</sub></a></td>
+  </tr>
+</table>
+
+## 🎢 GitHub Stats
+<div width="100%">
+  <img src=https://github-readme-stats.vercel.app/api?username=hgrgustavo&show_icons=true&theme=discord_old_blurple&hide_border=true&hide_title=true> 
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=hgrgustavo&layout=compact&theme=discord_old_blurple&hide_border=true>
+</div>
 
 
----
-
-
-[📌 Gerenciador de tarefas](https://github.com/hgrgustavo/gerenciador-de-tarefas) é um website onde você pode criar, armazenar, gerenciar ou excluir tarefas.
->
-> Este projeto utiliza:
-> ![](https://skillicons.dev/icons?i=html)
-![](https://skillicons.dev/icons?i=css)
-![](https://skillicons.dev/icons?i=js)
-![](https://skillicons.dev/icons?i=python)
-![](https://skillicons.dev/icons?i=django)
-![](https://skillicons.dev/icons?i=mysql)
-![](https://skillicons.dev/icons?i=ubuntu)
-![](https://skillicons.dev/icons?i=pycharm)
-
-### Github stats
-> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hgrgustavo&theme=javascript-dark&hide_border=true&border_radius=6&locale=pt_BR&short_numbers=true&card_width=400&card_height=200)
-
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgrgustavo&layout=compact&theme=codeSTACKr)
