@@ -5,10 +5,11 @@
 >  <i>"Passionate about technology since childhood, when my father gave me my first computer. Currently pursuing a Computer Science degree at UNA (Distance Learning), I also dedicate time to extra tech courses, solving algorithmic and system design challenges, contributing to open source projects, and actively exploring opportunities in the tech industry."
    </i>
 </p>
+<br>
 
 ## 📰 Projects
 <table align="center" width="100%">
-  <div align="center"><strong>🛒 Electronics E-Commerce</strong></div>
+  <div align="center"><strong>Electronics E-Commerce 🛒</strong></div>
   <br>
   <tr align="center">
     <th>About</th>
@@ -23,7 +24,7 @@
 </table>
 <br><br>
 <table width="100%" align="center">
-  <div align="center"><strong>🧑‍🏫 Controle Docentes Extraquadro</strong></div>
+  <div align="center"><strong>Controle Docentes Extraquadro 🧑‍🏫</strong></div>
   <br>
   <tr align="center">
     <th>About</th>
@@ -36,6 +37,7 @@
     <td align="center"><a href=""><sub>Access it</sub></a></td>
   </tr>
 </table>
+<br>
 
 ## 🎢 GitHub Stats
 <div width="100%">
