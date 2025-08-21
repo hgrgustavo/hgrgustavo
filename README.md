@@ -17,7 +17,7 @@
     <th>Website</th>
   </tr>
   <tr>
-    <td align="justify"><sub>An ecommerce platform, thoughtfully designed to capture the essence and functionality of a electronics store, offering curated selection of products and services that reflect the trusted expertise a real establishment</sub></td>
+    <td align="justify"><sub>An ecommerce platform, thoughtfully designed to capture the essence and functionality of a electronics store, offering curated selection of products and services that reflect the trusted expertise like a real establishment</sub></td>
     <td align="center"><a href="https://github.com/hgrgustavo/"><sub>GitHub</sub></a></td>
     <td align="center"><a href=""><sub>Access it</sub></a></td>
   </tr>
