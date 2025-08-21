@@ -32,7 +32,7 @@
     <th>Website</th>
   </tr>
   <tr>
-    <td align="justify"><sub>This project aims to help the SENAI Itumbiara institution to manage extra-teachers from their entry to the contract bureaucracy</sub></td>
+    <td align="justify"><sub>This project is designed to support the SENAI Itumbiara institution in efficiently managing temporary or extra teaching staff, streamlining the entire process from initial onboarding to the completion of contractual and administrative formalities</sub></td>
     <td align="center"><a href="https://github.com/hgrgustavo/docentes-extraquadro"><sub>GitHub</sub></a></td>
     <td align="center"><a href=""><sub>Access it</sub></a></td>
   </tr>
