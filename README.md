@@ -1,4 +1,4 @@
-<h1 align="center">Gustavo Henrique 👨‍🔧</h1>
+<h1 align="center">Gustavo Henrique 👷‍♂️</h1>
 <p align="center"><strong>Fullstack • Architect of scalable, human-centered solutions</strong></p>
 
 > <p align="justify">
