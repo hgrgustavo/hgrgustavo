@@ -17,7 +17,7 @@
     <th>Website</th>
   </tr>
   <tr>
-    <td align="justify"><sub>An ecommerce inspired by the repair and electronics store in my city.</sub></td>
+    <td align="justify"><sub>An ecommerce platform, thoughtfully designed to capture the essence and functionality of a electronics store, offering curated selection of products and services that reflect the trusted expertise a real establishment</sub></td>
     <td align="center"><a href="https://github.com/hgrgustavo/"><sub>GitHub</sub></a></td>
     <td align="center"><a href=""><sub>Access it</sub></a></td>
   </tr>
@@ -32,7 +32,7 @@
     <th>Website</th>
   </tr>
   <tr>
-    <td align="justify"><sub>This project aims to help the SENAI Itumbiara institution to manage extra-teachers from their entry to the contract bureaucracy.</sub></td>
+    <td align="justify"><sub>This project aims to help the SENAI Itumbiara institution to manage extra-teachers from their entry to the contract bureaucracy</sub></td>
     <td align="center"><a href="https://github.com/hgrgustavo/docentes-extraquadro"><sub>GitHub</sub></a></td>
     <td align="center"><a href=""><sub>Access it</sub></a></td>
   </tr>
