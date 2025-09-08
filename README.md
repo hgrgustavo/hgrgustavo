@@ -9,7 +9,7 @@
 
 ## 📰 Projects
 <table align="center" width="100%">
-  <div align="center"><strong>Electronics E-Commerce 🛒</strong></div>
+  <div align="center"><strong>Electronics E-Commerce</strong></div>
   <br>
   <tr align="center">
     <th>About</th>
@@ -24,7 +24,7 @@
 </table>
 <br><br>
 <table width="100%" align="center">
-  <div align="center"><strong>Controle Docentes Extraquadro 🧑‍🏫</strong></div>
+  <div align="center"><strong>Controle Docentes Extraquadro</strong></div>
   <br>
   <tr align="center">
     <th>About</th>
