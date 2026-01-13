@@ -9,7 +9,7 @@
 
 ## 📰 Projects
 <table align="center" width="100%">
-  <div align="center"><strong>Electronics E-Commerce</strong></div>
+  <div align="center"><strong>E-Commerce MVP</strong></div>
   <br>
   <tr align="center">
     <th>About</th>
@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td align="justify"><sub>An ecommerce platform, thoughtfully designed to capture the essence and functionality of a electronics store, offering curated selection of products and services that reflect the trusted expertise like a real establishment</sub></td>
-    <td align="center"><a href="https://github.com/hgrgustavo/"><sub>GitHub</sub></a></td>
+    <td align="center"><a href="https://github.com/hgrgustavo/ecommerce-mvp"><sub>GitHub</sub></a></td>
   </tr>
 </table>
 <br><br>
