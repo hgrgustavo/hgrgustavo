@@ -2,7 +2,7 @@
 <p align="center"><strong>Fullstack • Architect of scalable, human-centered solutions</strong></p>
 
 > <p align="justify">
->  <i>"Passionate about technology since childhood, when my father gave me my first computer. Currently pursuing a Computer Science degree at UNA (Distance Learning), I also dedicate time to extra tech courses, solving algorithmic and system design challenges, contributing to open source projects, and actively exploring opportunities in the tech industry."
+>  <i>Computer Science undergraduate with a solid foundation in systems development and hands-on experience in full-stack ecosystems. Highly skilled in troubleshooting, analyzing data flows, and working with APIs and developer tools. Combines deep technical curiosity—focused on software architecture, programming language internals, and DevOps—with a passion for solving complex technical integration puzzles and improving the developer experience."
    </i>
 </p>
 <br>
